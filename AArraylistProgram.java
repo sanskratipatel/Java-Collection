@@ -24,7 +24,4 @@ public class AArraylistProgram {
         System.out.println(li);
     }
 
-
-
-
 }
