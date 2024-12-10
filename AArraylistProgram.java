@@ -20,7 +20,11 @@ public class AArraylistProgram {
         for(int a :li) {
             System.out.println(a);
         }
+        System.out.println(li.toString());
+        System.out.println(li);
     }
+
+
 
 
 }

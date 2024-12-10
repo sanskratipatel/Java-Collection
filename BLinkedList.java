@@ -16,5 +16,7 @@ public class BLinkedList {
         System.out.println("Size of Linked List = " + str.size());
         System.out.println("STR Contain banana or not = "+ str.contains("Banana"));
         System.out.println("STR Contain Grapes or not = "+ str.contains("Grapes"));
+        System.out.println("Peek element of the linked list = "+ str.peek());
+        System.out.println("Pop element of the linked list = "+ str.pop());
     }
 }
